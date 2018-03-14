@@ -15,10 +15,10 @@ $config['redis']['active'] = 'local';
 /**
  * 本地环境
  */
-$config['redis']['local']['ip'] = '192.168.8.57';
+$config['redis']['local']['ip'] = '120.76.188.66';
 $config['redis']['local']['port'] = 6379;
 $config['redis']['local']['select'] = 1;
-$config['redis']['local']['password'] = '123456';
+$config['redis']['local']['password'] = 'XD!e%2n&';
 
 /**
  * 本地环境2
