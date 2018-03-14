@@ -1,0 +1,2 @@
+[2018-03-15 01:12:35] SD.ERROR: WORKER Error Redis::connect(): connect() failed: Connection timed out (/app/sd/vendor/tmtbe/swooledistributed/src/Server/Asyn/Redis/RedisAsynPool.php:451) [] []
+[2018-03-15 01:28:14] SD.ERROR: WORKER Error Redis::connect(): connect() failed: Connection timed out (/app/sd/vendor/tmtbe/swooledistributed/src/Server/Asyn/Redis/RedisAsynPool.php:451) [] []
